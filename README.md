@@ -1,3 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange)
+![Keras](https://img.shields.io/badge/Keras-Neural%20Network-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-FF4B4B)
+![Status](https://img.shields.io/badge/Status-Deployed-success)
+
+
+
 # 🧠 Handwritten Digit Recognition using Neural Network
 
 > An end-to-end Deep Learning application that recognizes handwritten digits (0–9) from 28×28 grayscale images using a fully connected Neural Network built with TensorFlow/Keras and deployed as an interactive Streamlit application.
