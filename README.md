@@ -804,6 +804,14 @@ Deployment
 
 This makes the project an **end-to-end AI application** rather than only a notebook-based experiment.
 
+## 🚀 Live Demo
+
+Try the deployed application:
+
+👉 https://handwritten-digit-recognition-neural-network-oqnf6mdndfsmdyfzk.streamlit.app/
+
+Draw a handwritten digit from **0–9** and the trained Neural Network will predict the digit with a confidence score.
+
 ---
 
 # 👨‍💻 Author
