@@ -1,6 +1,12 @@
 # 🧠 Handwritten Digit Recognition using Neural Network
 
 > An end-to-end Deep Learning application that recognizes handwritten digits (0–9) from 28×28 grayscale images using a fully connected Neural Network built with TensorFlow/Keras and deployed as an interactive Streamlit application.
+>
+> # 🧠 Handwritten Digit Recognition using Neural Network
+
+> An end-to-end Deep Learning application that recognizes handwritten digits using a Neural Network built with TensorFlow/Keras and deployed with Streamlit.
+
+[🚀 Live Demo](https://handwritten-digit-recognition-neural-network-oqnf6mdndfsmdyfzk.streamlit.app/)
 
 ---
 
