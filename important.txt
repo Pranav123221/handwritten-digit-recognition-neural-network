@@ -1,7 +1,0 @@
-## 📊 Dataset
-
-The dataset is not included in this repository due to its large file size.
-
-The project uses 28×28 grayscale handwritten digit images represented as pixel values. The training and test data are provided as CSV files.
-
-To reproduce the training pipeline, place the dataset files in the project directory before running the notebook.
