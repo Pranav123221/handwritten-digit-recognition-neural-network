@@ -26,6 +26,27 @@ This project implements the complete Deep Learning lifecycle—from raw pixel da
 
 The system accepts a handwritten digit as input and predicts the corresponding digit class along with the model's confidence.
 
+## 🧠 How It Works
+
+The system recognizes handwritten digits using a neural network trained on the MNIST dataset.
+
+### 🔄 Prediction Pipeline
+
+```text
+Input Handwritten Digit
+        ↓
+Image Preprocessing
+        ↓
+Pixel Normalization
+        ↓
+Neural Network
+        ↓
+Class Probabilities
+        ↓
+Predicted Digit (0–9)
+
+
+
 ### Core Pipeline
 
 ```text
